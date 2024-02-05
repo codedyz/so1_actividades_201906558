@@ -1,2 +1,2 @@
-*/5 * * * * /ruta/al/tu_script.sh
+*/5 * * * * /home/eddy/actividad2.sh
 
